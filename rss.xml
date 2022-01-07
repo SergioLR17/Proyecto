@@ -1,0 +1,32 @@
+<rss version="2.0">
+    <channel>
+        <title>Información sobre Informática básica</title>
+        <link>https://SergioLR17.github.io/Proyecto</link>
+        <descripcion>Aquí será visible los RSS de la página web Informática Básica</descripcion>
+    </channel>
+    <item>
+        <title>Redes</title>
+        <link>https://SergioLR17.github.io/Proyecto/redes.html</link>
+        <descripcion>Aquí será visible los RSS del apartado redes</descripcion>
+    </item>
+    <item>
+        <title>Hardware</title>
+        <link>https://SergioLR17.github.io/Proyecto/hardware.html</link>
+        <descripcion>Aquí será visible los RSS del apartado hardware</descripcion>
+    </item>
+    <item>
+        <title>Sistemas</title>
+        <link>https://SergioLR17.github.io/Proyecto/sistemas.html</link>
+        <descripcion>Aquí será visible los RSS del apartado sistemas</descripcion>
+    </item>
+    <item>
+        <title>Ciberseguridad</title>
+        <link>https://SergioLR17.github.io/Proyecto/ciberseguridad.html</link>
+        <descripcion>Aquí será visible los RSS del apartado ciberseguridad</descripcion>
+    </item>
+    <item>
+        <title>Suscripción</title>
+        <link>https://SergioLR17.github.io/Proyecto/suscripcion.html</link>
+        <descripcion>Aquí será visible los RSS del apartado suscripción</descripcion>
+    </item>
+</rss>
